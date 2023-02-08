@@ -1,5 +1,7 @@
+import { Rounting } from './pages';
+
 function App() {
-  return <div></div>;
+  return <Rounting />;
 }
 
 export default App;
