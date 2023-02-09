@@ -4,7 +4,7 @@ interface Props {
 
 const Wrapper = ({ children }: Props) => {
   return (
-    <div className="mx-auto mt-[85px] mb-[25px] h-[1070px] w-[1080px] rounded-[20px] bg-[#3C3C3C] p-[30px] shadow-lg">
+    <div className="shadow-lg mx-auto mt-[85px] mb-[25px] grid h-[1080px] w-[1080px] rounded-[20px] bg-[#3C3C3C] p-[30px]">
       {children}
     </div>
   );
