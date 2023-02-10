@@ -1,11 +1,9 @@
 import { Wrapper } from '../Wrapper';
-import { Header } from '../../modules/Header';
-import { Content } from '../../modules/Content';
+import { Content } from '../../modules';
 
 const MainPage = () => {
   return (
     <Wrapper>
-      <Header />
       <Content />
     </Wrapper>
   );
