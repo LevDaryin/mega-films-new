@@ -1,0 +1,2793 @@
+{
+  "films": [
+    {
+      "kinopoiskId": 1252447,
+      "imdbId": "tt9257638",
+      "nameRu": "Лорды раздевалки",
+      "nameEn": null,
+      "nameOriginal": "Lords of the Lockerroom",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "спорт"
+        },
+        {
+          "genre": "для взрослых"
+        }
+      ],
+      "ratingKinopoisk": 9.4,
+      "ratingImdb": 9.3,
+      "year": 1999,
+      "type": "FILM",
+      "posterUrl": null,
+      "posterUrlPreview": null
+    },
+    {
+      "kinopoiskId": 1309325,
+      "imdbId": "tt111491211",
+      "nameRu": "Космос",
+      "nameEn": null,
+      "nameOriginal": "",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "документальный"
+        }
+      ],
+      "ratingKinopoisk": 9.3,
+      "ratingImdb": null,
+      "year": 2019,
+      "type": "TV_SERIES",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1309325.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/1309325.jpg"
+    },
+    {
+      "kinopoiskId": 1043658,
+      "imdbId": "tt4202274",
+      "nameRu": "Шоу Грязного Фрэнка",
+      "nameEn": null,
+      "nameOriginal": "The Filthy Frank Show",
+      "countries": [
+        {
+          "country": "США"
+        },
+        {
+          "country": "Австралия"
+        },
+        {
+          "country": "Япония"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "комедия"
+        },
+        {
+          "genre": "короткометражка"
+        }
+      ],
+      "ratingKinopoisk": 9.3,
+      "ratingImdb": 9.2,
+      "year": 2011,
+      "type": "TV_SERIES",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1043658.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/1043658.jpg"
+    },
+    {
+      "kinopoiskId": 962472,
+      "imdbId": "tt5396486",
+      "nameRu": "Hot Wheels. За гранью воображения",
+      "nameEn": null,
+      "nameOriginal": "Team Hot Wheels: The Skills to Thrill",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "мультфильм"
+        }
+      ],
+      "ratingKinopoisk": 9.3,
+      "ratingImdb": 7.1,
+      "year": 2015,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/962472.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/962472.jpg"
+    },
+    {
+      "kinopoiskId": 77044,
+      "imdbId": "tt0108778",
+      "nameRu": "Друзья",
+      "nameEn": null,
+      "nameOriginal": "Friends",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "мелодрама"
+        },
+        {
+          "genre": "комедия"
+        }
+      ],
+      "ratingKinopoisk": 9.2,
+      "ratingImdb": 8.9,
+      "year": 1994,
+      "type": "TV_SERIES",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/77044.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/77044.jpg"
+    },
+    {
+      "kinopoiskId": 1003587,
+      "imdbId": "tt115554301",
+      "nameRu": "Гамильтон",
+      "nameEn": null,
+      "nameOriginal": "Hamilton",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "биография"
+        },
+        {
+          "genre": "мюзикл"
+        }
+      ],
+      "ratingKinopoisk": 9.2,
+      "ratingImdb": null,
+      "year": 2015,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1003587.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/1003587.jpg"
+    },
+    {
+      "kinopoiskId": 45319,
+      "imdbId": "tt0216434",
+      "nameRu": "Жил-был пёс",
+      "nameEn": null,
+      "nameOriginal": null,
+      "countries": [
+        {
+          "country": "СССР"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "комедия"
+        },
+        {
+          "genre": "мультфильм"
+        },
+        {
+          "genre": "семейный"
+        },
+        {
+          "genre": "короткометражка"
+        }
+      ],
+      "ratingKinopoisk": 9.2,
+      "ratingImdb": 8.4,
+      "year": 1982,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/45319.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/45319.jpg"
+    },
+    {
+      "kinopoiskId": 674243,
+      "imdbId": "tt155424301",
+      "nameRu": "Счастливые люди",
+      "nameEn": null,
+      "nameOriginal": null,
+      "countries": [
+        {
+          "country": "Россия"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "документальный"
+        }
+      ],
+      "ratingKinopoisk": 9.2,
+      "ratingImdb": 8.8,
+      "year": 2008,
+      "type": "MINI_SERIES",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/674243.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/674243.jpg"
+    },
+    {
+      "kinopoiskId": 952236,
+      "imdbId": "tt5223716",
+      "nameRu": "Hot Wheels. Мегатрасса",
+      "nameEn": null,
+      "nameOriginal": "Team Hot Wheels: Build the Epic Race",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "мультфильм"
+        },
+        {
+          "genre": "детский"
+        }
+      ],
+      "ratingKinopoisk": 9.2,
+      "ratingImdb": 6,
+      "year": 2015,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/952236.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/952236.jpg"
+    },
+    {
+      "kinopoiskId": 351771,
+      "imdbId": "tt0276902",
+      "nameRu": null,
+      "nameEn": null,
+      "nameOriginal": "Depeche Mode: Devotional",
+      "countries": [
+        {
+          "country": "Великобритания"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "музыка"
+        },
+        {
+          "genre": "документальный"
+        },
+        {
+          "genre": "концерт"
+        }
+      ],
+      "ratingKinopoisk": 9.2,
+      "ratingImdb": 9.1,
+      "year": 1993,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/351771.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/351771.jpg"
+    },
+    {
+      "kinopoiskId": 300980,
+      "imdbId": "tt0808176",
+      "nameRu": "Буш-музыка",
+      "nameEn": null,
+      "nameOriginal": "Boosh Music",
+      "countries": [
+        {
+          "country": "Великобритания"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "фэнтези"
+        },
+        {
+          "genre": "комедия"
+        },
+        {
+          "genre": "мюзикл"
+        },
+        {
+          "genre": "короткометражка"
+        }
+      ],
+      "ratingKinopoisk": 9.2,
+      "ratingImdb": 8.8,
+      "year": 2005,
+      "type": "FILM",
+      "posterUrl": null,
+      "posterUrlPreview": null
+    },
+    {
+      "kinopoiskId": 4789626,
+      "imdbId": "tt14986406",
+      "nameRu": "Блич: Тысячелетняя кровавая война",
+      "nameEn": null,
+      "nameOriginal": "Bleach: Sennen Kessen-hen",
+      "countries": [
+        {
+          "country": "Япония"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "боевик"
+        },
+        {
+          "genre": "фэнтези"
+        },
+        {
+          "genre": "мультфильм"
+        },
+        {
+          "genre": "аниме"
+        }
+      ],
+      "ratingKinopoisk": 9.2,
+      "ratingImdb": 9.5,
+      "year": 2022,
+      "type": "TV_SERIES",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/4789626.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/4789626.jpg"
+    },
+    {
+      "kinopoiskId": 1007472,
+      "imdbId": "tt112674321",
+      "nameRu": "Планета Земля 2",
+      "nameEn": null,
+      "nameOriginal": "Planet Earth II",
+      "countries": [
+        {
+          "country": "США"
+        },
+        {
+          "country": "Франция"
+        },
+        {
+          "country": "Великобритания"
+        },
+        {
+          "country": "Германия"
+        },
+        {
+          "country": "Китай"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "документальный"
+        }
+      ],
+      "ratingKinopoisk": 9.2,
+      "ratingImdb": 9.5,
+      "year": 2016,
+      "type": "MINI_SERIES",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1007472.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/1007472.jpg"
+    },
+    {
+      "kinopoiskId": 972889,
+      "imdbId": "tt4926348",
+      "nameRu": "BadComedian",
+      "nameEn": null,
+      "nameOriginal": null,
+      "countries": [
+        {
+          "country": "Россия"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "комедия"
+        }
+      ],
+      "ratingKinopoisk": 9.2,
+      "ratingImdb": 7.7,
+      "year": 2011,
+      "type": "TV_SERIES",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/972889.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/972889.jpg"
+    },
+    {
+      "kinopoiskId": 1339977,
+      "imdbId": "tt11620828",
+      "nameRu": "Уровень тревоги: Полночь",
+      "nameEn": null,
+      "nameOriginal": "Threat Level Midnight: The Movie",
+      "countries": [
+        {
+          "country": "США"
+        },
+        {
+          "country": "Великобритания"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "боевик"
+        },
+        {
+          "genre": "комедия"
+        },
+        {
+          "genre": "короткометражка"
+        }
+      ],
+      "ratingKinopoisk": 9.2,
+      "ratingImdb": 9.6,
+      "year": 2011,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1339977.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/1339977.jpg"
+    },
+    {
+      "kinopoiskId": 1368895,
+      "imdbId": "tt111494121",
+      "nameRu": null,
+      "nameEn": null,
+      "nameOriginal": "Astartes",
+      "countries": [],
+      "genres": [
+        {
+          "genre": "фантастика"
+        },
+        {
+          "genre": "военный"
+        },
+        {
+          "genre": "мультфильм"
+        }
+      ],
+      "ratingKinopoisk": 9.1,
+      "ratingImdb": 9.3,
+      "year": 2018,
+      "type": "MINI_SERIES",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1368895.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/1368895.jpg"
+    },
+    {
+      "kinopoiskId": 762381,
+      "imdbId": "t111146800",
+      "nameRu": "Космос: Пространство и время",
+      "nameEn": null,
+      "nameOriginal": "Cosmos: A Spacetime Odyssey",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "документальный"
+        }
+      ],
+      "ratingKinopoisk": 9.1,
+      "ratingImdb": 9.3,
+      "year": 2014,
+      "type": "MINI_SERIES",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/762381.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/762381.jpg"
+    },
+    {
+      "kinopoiskId": 1043713,
+      "imdbId": "tt6679310",
+      "nameRu": "Он вам не Димон",
+      "nameEn": null,
+      "nameOriginal": null,
+      "countries": [
+        {
+          "country": "Россия"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "документальный"
+        }
+      ],
+      "ratingKinopoisk": 9.1,
+      "ratingImdb": 8.8,
+      "year": 2017,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1043713.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/1043713.jpg"
+    },
+    {
+      "kinopoiskId": 435,
+      "imdbId": "tt01206189",
+      "nameRu": "Зеленая миля",
+      "nameEn": null,
+      "nameOriginal": "The Green Mile",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "драма"
+        },
+        {
+          "genre": "криминал"
+        }
+      ],
+      "ratingKinopoisk": 9.1,
+      "ratingImdb": 8.6,
+      "year": 1999,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/435.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/435.jpg"
+    },
+    {
+      "kinopoiskId": 326,
+      "imdbId": "tt0121161",
+      "nameRu": "Побег из Шоушенка",
+      "nameEn": null,
+      "nameOriginal": "The Shawshank Redemption",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "драма"
+        }
+      ],
+      "ratingKinopoisk": 9.1,
+      "ratingImdb": 9.3,
+      "year": 1994,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/326.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/326.jpg"
+    },
+    {
+      "kinopoiskId": 988056,
+      "imdbId": "tt8091532",
+      "nameRu": "Малышарики",
+      "nameEn": null,
+      "nameOriginal": null,
+      "countries": [
+        {
+          "country": "Россия"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "комедия"
+        },
+        {
+          "genre": "мультфильм"
+        },
+        {
+          "genre": "детский"
+        }
+      ],
+      "ratingKinopoisk": 9.1,
+      "ratingImdb": 7.5,
+      "year": 2015,
+      "type": "TV_SERIES",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/988056.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/988056.jpg"
+    },
+    {
+      "kinopoiskId": 438301,
+      "imdbId": "tt0273857",
+      "nameRu": null,
+      "nameEn": null,
+      "nameOriginal": "Mylène Farmer: Mylenium Tour",
+      "countries": [
+        {
+          "country": "Франция"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "музыка"
+        },
+        {
+          "genre": "документальный"
+        },
+        {
+          "genre": "концерт"
+        }
+      ],
+      "ratingKinopoisk": 9.1,
+      "ratingImdb": 9.2,
+      "year": 2000,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/438301.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/438301.jpg"
+    },
+    {
+      "kinopoiskId": 1043713,
+      "imdbId": "tt6679360",
+      "nameRu": "Он вам не Димон",
+      "nameEn": null,
+      "nameOriginal": null,
+      "countries": [
+        {
+          "country": "Россия"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "документальный"
+        }
+      ],
+      "ratingKinopoisk": 9.1,
+      "ratingImdb": 8.8,
+      "year": 2017,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1043713.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/1043713.jpg"
+    },
+    {
+      "kinopoiskId": 961694,
+      "imdbId": "tt5371572",
+      "nameRu": "LEGO Супергерои Marvel: Мстители. Снова в сборе",
+      "nameEn": null,
+      "nameOriginal": "Lego Marvel Super Heroes: Avengers Reassembled",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "фантастика"
+        },
+        {
+          "genre": "приключения"
+        },
+        {
+          "genre": "боевик"
+        },
+        {
+          "genre": "комедия"
+        },
+        {
+          "genre": "мультфильм"
+        },
+        {
+          "genre": "семейный"
+        }
+      ],
+      "ratingKinopoisk": 9.1,
+      "ratingImdb": 6.1,
+      "year": 2015,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/961694.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/961694.jpg"
+    },
+    {
+      "kinopoiskId": 762381,
+      "imdbId": "tt214611475",
+      "nameRu": "Космос: Пространство и время",
+      "nameEn": null,
+      "nameOriginal": "Cosmos: A Spacetime Odyssey",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "документальный"
+        }
+      ],
+      "ratingKinopoisk": 9.1,
+      "ratingImdb": 9.3,
+      "year": 2014,
+      "type": "MINI_SERIES",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/762381.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/762381.jpg"
+    },
+    {
+      "kinopoiskId": 435,
+      "imdbId": "tt0120689",
+      "nameRu": "Зеленая миля",
+      "nameEn": null,
+      "nameOriginal": "The Green Mile",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "драма"
+        },
+        {
+          "genre": "криминал"
+        }
+      ],
+      "ratingKinopoisk": 9.1,
+      "ratingImdb": 8.6,
+      "year": 1999,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/435.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/435.jpg"
+    },
+    {
+      "kinopoiskId": 1189947,
+      "imdbId": "tt4648640",
+      "nameRu": "Говорящий Том и друзья",
+      "nameEn": null,
+      "nameOriginal": "Talking Tom and Friends",
+      "countries": [
+        {
+          "country": "Кипр"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "приключения"
+        },
+        {
+          "genre": "комедия"
+        },
+        {
+          "genre": "мультфильм"
+        },
+        {
+          "genre": "детский"
+        }
+      ],
+      "ratingKinopoisk": 9.1,
+      "ratingImdb": 5.9,
+      "year": 2014,
+      "type": "TV_SERIES",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1189947.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/1189947.jpg"
+    },
+    {
+      "kinopoiskId": 326,
+      "imdbId": "tt0111161",
+      "nameRu": "Побег из Шоушенка",
+      "nameEn": null,
+      "nameOriginal": "The Shawshank Redemption",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "драма"
+        }
+      ],
+      "ratingKinopoisk": 9.1,
+      "ratingImdb": 9.3,
+      "year": 1994,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/326.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/326.jpg"
+    },
+    {
+      "kinopoiskId": 1073233,
+      "imdbId": "tt214611275",
+      "nameRu": "Голубая планета 2",
+      "nameEn": null,
+      "nameOriginal": "Blue Planet II",
+      "countries": [
+        {
+          "country": "Великобритания"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "документальный"
+        }
+      ],
+      "ratingKinopoisk": 9.1,
+      "ratingImdb": 9.3,
+      "year": 2017,
+      "type": "MINI_SERIES",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1073233.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/1073233.jpg"
+    },
+    {
+      "kinopoiskId": 4951085,
+      "imdbId": "tt014611475",
+      "nameRu": "Истории в кино: Однажды в парке",
+      "nameEn": null,
+      "nameOriginal": null,
+      "countries": [
+        {
+          "country": "Россия"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "комедия"
+        },
+        {
+          "genre": "реальное ТВ"
+        }
+      ],
+      "ratingKinopoisk": 9,
+      "ratingImdb": null,
+      "year": 2022,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/4951085.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/4951085.jpg"
+    },
+    {
+      "kinopoiskId": 685246,
+      "imdbId": "tt2861424",
+      "nameRu": "Рик и Морти",
+      "nameEn": null,
+      "nameOriginal": "Rick and Morty",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "фантастика"
+        },
+        {
+          "genre": "приключения"
+        },
+        {
+          "genre": "комедия"
+        },
+        {
+          "genre": "мультфильм"
+        }
+      ],
+      "ratingKinopoisk": 9,
+      "ratingImdb": 9.2,
+      "year": 2013,
+      "type": "TV_SERIES",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/685246.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/685246.jpg"
+    },
+    {
+      "kinopoiskId": 944829,
+      "imdbId": "tt214623575",
+      "nameRu": "Вернуться в 1988",
+      "nameEn": null,
+      "nameOriginal": "Eungdaphara 1988",
+      "countries": [
+        {
+          "country": "Корея Южная"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "мелодрама"
+        },
+        {
+          "genre": "комедия"
+        }
+      ],
+      "ratingKinopoisk": 9,
+      "ratingImdb": 9.2,
+      "year": 2015,
+      "type": "TV_SERIES",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/944829.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/944829.jpg"
+    },
+    {
+      "kinopoiskId": 502322,
+      "imdbId": "tt1609138",
+      "nameRu": "Всё в жизни бывает",
+      "nameEn": null,
+      "nameOriginal": "Koochie Koochie Hota Hai",
+      "countries": [
+        {
+          "country": "Индия"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "мелодрама"
+        },
+        {
+          "genre": "мультфильм"
+        },
+        {
+          "genre": "семейный"
+        },
+        {
+          "genre": "мюзикл"
+        }
+      ],
+      "ratingKinopoisk": 9,
+      "ratingImdb": 6.2,
+      "year": 2021,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/502322.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/502322.jpg"
+    },
+    {
+      "kinopoiskId": 734128,
+      "imdbId": "tt2669079",
+      "nameRu": "Время не терпит",
+      "nameEn": null,
+      "nameOriginal": "Time Framed",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "драма"
+        }
+      ],
+      "ratingKinopoisk": 9,
+      "ratingImdb": 9.5,
+      "year": 2016,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/734128.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/734128.jpg"
+    },
+    {
+      "kinopoiskId": 1183870,
+      "imdbId": "tt8889820",
+      "nameRu": null,
+      "nameEn": null,
+      "nameOriginal": "Epic NPC Man",
+      "countries": [
+        {
+          "country": "Новая Зеландия"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "комедия"
+        }
+      ],
+      "ratingKinopoisk": 9,
+      "ratingImdb": 9.3,
+      "year": 2016,
+      "type": "MINI_SERIES",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1183870.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/1183870.jpg"
+    },
+    {
+      "kinopoiskId": 650479,
+      "imdbId": "tt2112343",
+      "nameRu": null,
+      "nameEn": null,
+      "nameOriginal": "Mylène Farmer: Stade de France",
+      "countries": [
+        {
+          "country": "Франция"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "музыка"
+        },
+        {
+          "genre": "концерт"
+        }
+      ],
+      "ratingKinopoisk": 9,
+      "ratingImdb": 8.8,
+      "year": 2009,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/650479.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/650479.jpg"
+    },
+    {
+      "kinopoiskId": 1162628,
+      "imdbId": "tt200611475",
+      "nameRu": "Последний танец",
+      "nameEn": null,
+      "nameOriginal": "The Last Dance",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "биография"
+        },
+        {
+          "genre": "спорт"
+        },
+        {
+          "genre": "документальный"
+        }
+      ],
+      "ratingKinopoisk": 9,
+      "ratingImdb": 9.1,
+      "year": 2020,
+      "type": "MINI_SERIES",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1162628.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/1162628.jpg"
+    },
+    {
+      "kinopoiskId": 1354149,
+      "imdbId": "tt5328716",
+      "nameRu": null,
+      "nameEn": null,
+      "nameOriginal": "Optimus Gang",
+      "countries": [
+        {
+          "country": "Украина"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "комедия"
+        }
+      ],
+      "ratingKinopoisk": 9,
+      "ratingImdb": 8.5,
+      "year": 2013,
+      "type": "TV_SERIES",
+      "posterUrl": null,
+      "posterUrlPreview": null
+    },
+    {
+      "kinopoiskId": 4756142,
+      "imdbId": "tt16590138",
+      "nameRu": "Ласточки Христовы",
+      "nameEn": null,
+      "nameOriginal": null,
+      "countries": [
+        {
+          "country": "Россия"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "документальный"
+        }
+      ],
+      "ratingKinopoisk": 9,
+      "ratingImdb": null,
+      "year": 2021,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/4756142.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/4756142.jpg"
+    },
+    {
+      "kinopoiskId": 1405666,
+      "imdbId": "tt10018754",
+      "nameRu": "Убежище. Истории о выживании в Альпах",
+      "nameEn": null,
+      "nameOriginal": "Le plus beau pays du monde 3",
+      "countries": [
+        {
+          "country": "Франция"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "документальный"
+        }
+      ],
+      "ratingKinopoisk": 9,
+      "ratingImdb": 8.5,
+      "year": 2019,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1405666.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/1405666.jpg"
+    },
+    {
+      "kinopoiskId": 1227897,
+      "imdbId": "tt214611418",
+      "nameRu": "Топ Гир: Лучшее",
+      "nameEn": null,
+      "nameOriginal": "Top Gear: Best of",
+      "countries": [
+        {
+          "country": "Великобритания"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "комедия"
+        },
+        {
+          "genre": "документальный"
+        },
+        {
+          "genre": "реальное ТВ"
+        },
+        {
+          "genre": "ток-шоу"
+        }
+      ],
+      "ratingKinopoisk": 9,
+      "ratingImdb": null,
+      "year": 2006,
+      "type": "TV_SERIES",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1227897.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/1227897.jpg"
+    },
+    {
+      "kinopoiskId": 1346348,
+      "imdbId": "tt3001718",
+      "nameRu": "Проклятие серого слонёнка",
+      "nameEn": null,
+      "nameOriginal": "Proklyatie serogo slonyonka",
+      "countries": [
+        {
+          "country": "Россия"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "документальный"
+        }
+      ],
+      "ratingKinopoisk": 9,
+      "ratingImdb": 8.9,
+      "year": 2011,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1346348.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/1346348.jpg"
+    },
+    {
+      "kinopoiskId": 1162628,
+      "imdbId": "tt214611335",
+      "nameRu": "Последний танец",
+      "nameEn": null,
+      "nameOriginal": "The Last Dance",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "биография"
+        },
+        {
+          "genre": "спорт"
+        },
+        {
+          "genre": "документальный"
+        }
+      ],
+      "ratingKinopoisk": 9,
+      "ratingImdb": 9.1,
+      "year": 2020,
+      "type": "MINI_SERIES",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1162628.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/1162628.jpg"
+    },
+    {
+      "kinopoiskId": 734128,
+      "imdbId": "tt2669078",
+      "nameRu": "Время не терпит",
+      "nameEn": null,
+      "nameOriginal": "Time Framed",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "драма"
+        }
+      ],
+      "ratingKinopoisk": 9,
+      "ratingImdb": 9.5,
+      "year": 2016,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/734128.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/734128.jpg"
+    },
+    {
+      "kinopoiskId": 464963,
+      "imdbId": "tt0944947",
+      "nameRu": "Игра престолов",
+      "nameEn": null,
+      "nameOriginal": "Game of Thrones",
+      "countries": [
+        {
+          "country": "США"
+        },
+        {
+          "country": "Великобритания"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "драма"
+        },
+        {
+          "genre": "мелодрама"
+        },
+        {
+          "genre": "приключения"
+        },
+        {
+          "genre": "боевик"
+        },
+        {
+          "genre": "фэнтези"
+        }
+      ],
+      "ratingKinopoisk": 9,
+      "ratingImdb": 9.2,
+      "year": 2011,
+      "type": "TV_SERIES",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/464963.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/464963.jpg"
+    },
+    {
+      "kinopoiskId": 685246,
+      "imdbId": "tt3861424",
+      "nameRu": "Рик и Морти",
+      "nameEn": null,
+      "nameOriginal": "Rick and Morty",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "фантастика"
+        },
+        {
+          "genre": "приключения"
+        },
+        {
+          "genre": "комедия"
+        },
+        {
+          "genre": "мультфильм"
+        }
+      ],
+      "ratingKinopoisk": 9,
+      "ratingImdb": 9.2,
+      "year": 2013,
+      "type": "TV_SERIES",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/685246.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/685246.jpg"
+    },
+    {
+      "kinopoiskId": 4756142,
+      "imdbId": "tt16590438",
+      "nameRu": "Ласточки Христовы",
+      "nameEn": null,
+      "nameOriginal": null,
+      "countries": [
+        {
+          "country": "Россия"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "документальный"
+        }
+      ],
+      "ratingKinopoisk": 9,
+      "ratingImdb": null,
+      "year": 2021,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/4756142.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/4756142.jpg"
+    },
+    {
+      "kinopoiskId": 4951085,
+      "imdbId": "tt012345361",
+      "nameRu": "Истории в кино: Однажды в парке",
+      "nameEn": null,
+      "nameOriginal": null,
+      "countries": [
+        {
+          "country": "Россия"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "комедия"
+        },
+        {
+          "genre": "реальное ТВ"
+        }
+      ],
+      "ratingKinopoisk": 9,
+      "ratingImdb": null,
+      "year": 2022,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/4951085.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/4951085.jpg"
+    },
+    {
+      "kinopoiskId": 1405666,
+      "imdbId": "tt01018754",
+      "nameRu": "Убежище. Истории о выживании в Альпах",
+      "nameEn": null,
+      "nameOriginal": "Le plus beau pays du monde 3",
+      "countries": [
+        {
+          "country": "Франция"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "документальный"
+        }
+      ],
+      "ratingKinopoisk": 9,
+      "ratingImdb": 8.5,
+      "year": 2019,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1405666.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/1405666.jpg"
+    },
+    {
+      "kinopoiskId": 468815,
+      "imdbId": "tt107446665",
+      "nameRu": "Подстрочник",
+      "nameEn": null,
+      "nameOriginal": null,
+      "countries": [
+        {
+          "country": "Россия"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "биография"
+        },
+        {
+          "genre": "документальный"
+        }
+      ],
+      "ratingKinopoisk": 9,
+      "ratingImdb": 8.2,
+      "year": 2008,
+      "type": "TV_SERIES",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/468815.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/468815.jpg"
+    },
+    {
+      "kinopoiskId": 591929,
+      "imdbId": "tt1865718",
+      "nameRu": "Гравити Фолз",
+      "nameEn": null,
+      "nameOriginal": "Gravity Falls",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "детектив"
+        },
+        {
+          "genre": "фантастика"
+        },
+        {
+          "genre": "приключения"
+        },
+        {
+          "genre": "комедия"
+        },
+        {
+          "genre": "мультфильм"
+        },
+        {
+          "genre": "семейный"
+        }
+      ],
+      "ratingKinopoisk": 9,
+      "ratingImdb": 8.9,
+      "year": 2012,
+      "type": "TV_SERIES",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/591929.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/591929.jpg"
+    },
+    {
+      "kinopoiskId": 1171896,
+      "imdbId": "tt6443078",
+      "nameRu": "Шпионы в дикой природе",
+      "nameEn": null,
+      "nameOriginal": "Spy in the Wild",
+      "countries": [
+        {
+          "country": "Великобритания"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "документальный"
+        }
+      ],
+      "ratingKinopoisk": 9,
+      "ratingImdb": 7.9,
+      "year": 2017,
+      "type": "TV_SERIES",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1171896.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/1171896.jpg"
+    },
+    {
+      "kinopoiskId": 4886080,
+      "imdbId": "tt214611473",
+      "nameRu": "Джейми Оливер: Готовим вместе",
+      "nameEn": null,
+      "nameOriginal": "Jamie Oliver: Together",
+      "countries": [
+        {
+          "country": "Великобритания"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "реальное ТВ"
+        }
+      ],
+      "ratingKinopoisk": 9,
+      "ratingImdb": null,
+      "year": 2021,
+      "type": "TV_SERIES",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/4886080.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/4886080.jpg"
+    },
+    {
+      "kinopoiskId": 724896,
+      "imdbId": "tt2300165",
+      "nameRu": "Как назвать эту любовь?",
+      "nameEn": null,
+      "nameOriginal": "Iss Pyaar Ko Kya Naam Doon",
+      "countries": [
+        {
+          "country": "Индия"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "драма"
+        },
+        {
+          "genre": "мелодрама"
+        }
+      ],
+      "ratingKinopoisk": 8.9,
+      "ratingImdb": 7.5,
+      "year": 2011,
+      "type": "TV_SERIES",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/724896.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/724896.jpg"
+    },
+    {
+      "kinopoiskId": 4475473,
+      "imdbId": "tt10541088",
+      "nameRu": "Ферма Кларксона",
+      "nameEn": null,
+      "nameOriginal": "Clarkson's Farm",
+      "countries": [
+        {
+          "country": "Великобритания"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "комедия"
+        },
+        {
+          "genre": "документальный"
+        }
+      ],
+      "ratingKinopoisk": 8.9,
+      "ratingImdb": 9,
+      "year": 2021,
+      "type": "TV_SERIES",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/4475473.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/4475473.jpg"
+    },
+    {
+      "kinopoiskId": 891411,
+      "imdbId": "tt214611401",
+      "nameRu": "Ту-154. Моя легенда",
+      "nameEn": null,
+      "nameOriginal": null,
+      "countries": [
+        {
+          "country": "Россия"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "документальный"
+        }
+      ],
+      "ratingKinopoisk": 8.9,
+      "ratingImdb": null,
+      "year": 2014,
+      "type": "MINI_SERIES",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/891411.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/891411.jpg"
+    },
+    {
+      "kinopoiskId": 743965,
+      "imdbId": "tt214618849",
+      "nameRu": "Африка",
+      "nameEn": null,
+      "nameOriginal": "Africa",
+      "countries": [
+        {
+          "country": "Великобритания"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "документальный"
+        }
+      ],
+      "ratingKinopoisk": 8.9,
+      "ratingImdb": 9,
+      "year": 2013,
+      "type": "MINI_SERIES",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/743965.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/743965.jpg"
+    },
+    {
+      "kinopoiskId": 4819407,
+      "imdbId": "tt214611457",
+      "nameRu": "Тоботы. Детективы Галактики. Спин-офф",
+      "nameEn": null,
+      "nameOriginal": "Tobot Galaxy Detectives. Spin-off",
+      "countries": [
+        {
+          "country": "Корея Южная"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "фантастика"
+        },
+        {
+          "genre": "мультфильм"
+        },
+        {
+          "genre": "детский"
+        }
+      ],
+      "ratingKinopoisk": 8.9,
+      "ratingImdb": null,
+      "year": 2021,
+      "type": "TV_SERIES",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/4819407.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/4819407.jpg"
+    },
+    {
+      "kinopoiskId": 1174294,
+      "imdbId": "tt8050740",
+      "nameRu": "Амфибия",
+      "nameEn": null,
+      "nameOriginal": "Amphibia",
+      "countries": [
+        {
+          "country": "США"
+        },
+        {
+          "country": "Испания"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "триллер"
+        },
+        {
+          "genre": "драма"
+        },
+        {
+          "genre": "детектив"
+        },
+        {
+          "genre": "фантастика"
+        },
+        {
+          "genre": "приключения"
+        },
+        {
+          "genre": "боевик"
+        },
+        {
+          "genre": "фэнтези"
+        },
+        {
+          "genre": "комедия"
+        },
+        {
+          "genre": "мультфильм"
+        },
+        {
+          "genre": "семейный"
+        }
+      ],
+      "ratingKinopoisk": 8.9,
+      "ratingImdb": 8.2,
+      "year": 2019,
+      "type": "TV_SERIES",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1174294.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/1174294.jpg"
+    },
+    {
+      "kinopoiskId": 1282979,
+      "imdbId": "tt10650940",
+      "nameRu": "LEGO Ниндзяго",
+      "nameEn": null,
+      "nameOriginal": "Ninjago",
+      "countries": [
+        {
+          "country": "США"
+        },
+        {
+          "country": "Канада"
+        },
+        {
+          "country": "Дания"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "приключения"
+        },
+        {
+          "genre": "боевик"
+        },
+        {
+          "genre": "мультфильм"
+        },
+        {
+          "genre": "детский"
+        }
+      ],
+      "ratingKinopoisk": 8.9,
+      "ratingImdb": 7.9,
+      "year": 2019,
+      "type": "TV_SERIES",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1282979.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/1282979.jpg"
+    },
+    {
+      "kinopoiskId": 1282979,
+      "imdbId": "tt10650946",
+      "nameRu": "LEGO Ниндзяго",
+      "nameEn": null,
+      "nameOriginal": "Ninjago",
+      "countries": [
+        {
+          "country": "США"
+        },
+        {
+          "country": "Канада"
+        },
+        {
+          "country": "Дания"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "приключения"
+        },
+        {
+          "genre": "боевик"
+        },
+        {
+          "genre": "мультфильм"
+        },
+        {
+          "genre": "детский"
+        }
+      ],
+      "ratingKinopoisk": 8.9,
+      "ratingImdb": 7.9,
+      "year": 2019,
+      "type": "TV_SERIES",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1282979.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/1282979.jpg"
+    },
+    {
+      "kinopoiskId": 734467,
+      "imdbId": "tt229911475",
+      "nameRu": "Оскар и Розовая дама",
+      "nameEn": null,
+      "nameOriginal": null,
+      "countries": [
+        {
+          "country": "Россия"
+        }
+      ],
+      "genres": [],
+      "ratingKinopoisk": 8.9,
+      "ratingImdb": null,
+      "year": 2006,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/734467.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/734467.jpg"
+    },
+    {
+      "kinopoiskId": 1392470,
+      "imdbId": "tt214161475",
+      "nameRu": "Тропические острова",
+      "nameEn": null,
+      "nameOriginal": "Earth's Tropical Islands",
+      "countries": [
+        {
+          "country": "США"
+        },
+        {
+          "country": "Великобритания"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "документальный"
+        }
+      ],
+      "ratingKinopoisk": 8.9,
+      "ratingImdb": 8.1,
+      "year": 2020,
+      "type": "MINI_SERIES",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1392470.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/1392470.jpg"
+    },
+    {
+      "kinopoiskId": 2039957,
+      "imdbId": "tt814611475",
+      "nameRu": "Просто о важном. Про Миру и Гошу",
+      "nameEn": null,
+      "nameOriginal": null,
+      "countries": [
+        {
+          "country": "Россия"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "мультфильм"
+        },
+        {
+          "genre": "семейный"
+        },
+        {
+          "genre": "детский"
+        }
+      ],
+      "ratingKinopoisk": 8.9,
+      "ratingImdb": null,
+      "year": 2019,
+      "type": "TV_SERIES",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/2039957.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/2039957.jpg"
+    },
+    {
+      "kinopoiskId": 279548,
+      "imdbId": "tt214600005",
+      "nameRu": "BBC: Планета Земля",
+      "nameEn": null,
+      "nameOriginal": "Planet Earth",
+      "countries": [
+        {
+          "country": "Великобритания"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "документальный"
+        }
+      ],
+      "ratingKinopoisk": 8.9,
+      "ratingImdb": 9.4,
+      "year": 2006,
+      "type": "MINI_SERIES",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/279548.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/279548.jpg"
+    },
+    {
+      "kinopoiskId": 4976275,
+      "imdbId": "tt000016344",
+      "nameRu": "Лалабук",
+      "nameEn": null,
+      "nameOriginal": null,
+      "countries": [
+        {
+          "country": "Россия"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "мультфильм"
+        },
+        {
+          "genre": "детский"
+        }
+      ],
+      "ratingKinopoisk": 8.9,
+      "ratingImdb": null,
+      "year": 2021,
+      "type": "TV_SERIES",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/4976275.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/4976275.jpg"
+    },
+    {
+      "kinopoiskId": 1054322,
+      "imdbId": "tt004611475",
+      "nameRu": null,
+      "nameEn": null,
+      "nameOriginal": "Sergei Polunin: Take Me to Church",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "музыка"
+        },
+        {
+          "genre": "короткометражка"
+        }
+      ],
+      "ratingKinopoisk": 8.9,
+      "ratingImdb": 9.2,
+      "year": 2015,
+      "type": "FILM",
+      "posterUrl": null,
+      "posterUrlPreview": null
+    },
+    {
+      "kinopoiskId": 4819407,
+      "imdbId": "tt214611075",
+      "nameRu": "Тоботы. Детективы Галактики. Спин-офф",
+      "nameEn": null,
+      "nameOriginal": "Tobot Galaxy Detectives. Spin-off",
+      "countries": [
+        {
+          "country": "Корея Южная"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "фантастика"
+        },
+        {
+          "genre": "мультфильм"
+        },
+        {
+          "genre": "детский"
+        }
+      ],
+      "ratingKinopoisk": 8.9,
+      "ratingImdb": null,
+      "year": 2021,
+      "type": "TV_SERIES",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/4819407.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/4819407.jpg"
+    },
+    {
+      "kinopoiskId": 503264,
+      "imdbId": "tt3610248",
+      "nameRu": "Великая война",
+      "nameEn": null,
+      "nameOriginal": null,
+      "countries": [
+        {
+          "country": "Россия"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "военный"
+        },
+        {
+          "genre": "история"
+        },
+        {
+          "genre": "документальный"
+        }
+      ],
+      "ratingKinopoisk": 8.9,
+      "ratingImdb": 8.6,
+      "year": 2010,
+      "type": "TV_SERIES",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/503264.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/503264.jpg"
+    },
+    {
+      "kinopoiskId": 982493,
+      "imdbId": "tt0583508",
+      "nameRu": "Друзья: Ещё один эпизод перед последним — Десять лет Друзей",
+      "nameEn": null,
+      "nameOriginal": "Friends: The One Before the Last One - Ten Years of Friends",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "комедия"
+        }
+      ],
+      "ratingKinopoisk": 8.9,
+      "ratingImdb": 8.7,
+      "year": 2004,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/982493.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/982493.jpg"
+    },
+    {
+      "kinopoiskId": 984001,
+      "imdbId": "tt014325311",
+      "nameRu": "Алое сердце",
+      "nameEn": null,
+      "nameOriginal": "Dalui yeonin - bobogyungsim Ryeo",
+      "countries": [
+        {
+          "country": "Корея Южная"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "драма"
+        },
+        {
+          "genre": "мелодрама"
+        },
+        {
+          "genre": "фэнтези"
+        },
+        {
+          "genre": "история"
+        }
+      ],
+      "ratingKinopoisk": 8.9,
+      "ratingImdb": 8.7,
+      "year": 2016,
+      "type": "TV_SERIES",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/984001.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/984001.jpg"
+    },
+    {
+      "kinopoiskId": 1379016,
+      "imdbId": "tt12377014",
+      "nameRu": "Смешарики. Новый сезон",
+      "nameEn": null,
+      "nameOriginal": null,
+      "countries": [
+        {
+          "country": "Россия"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "мультфильм"
+        },
+        {
+          "genre": "семейный"
+        },
+        {
+          "genre": "детский"
+        }
+      ],
+      "ratingKinopoisk": 8.9,
+      "ratingImdb": null,
+      "year": 2020,
+      "type": "TV_SERIES",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1379016.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/1379016.jpg"
+    },
+    {
+      "kinopoiskId": 837982,
+      "imdbId": "tt016325311",
+      "nameRu": null,
+      "nameEn": null,
+      "nameOriginal": "Timeless 2013 - Le film",
+      "countries": [
+        {
+          "country": "Франция"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "музыка"
+        },
+        {
+          "genre": "концерт"
+        }
+      ],
+      "ratingKinopoisk": 8.9,
+      "ratingImdb": null,
+      "year": 2013,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/837982.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/837982.jpg"
+    },
+    {
+      "kinopoiskId": 448,
+      "imdbId": "tt0109830",
+      "nameRu": "Форрест Гамп",
+      "nameEn": null,
+      "nameOriginal": "Forrest Gump",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "драма"
+        },
+        {
+          "genre": "мелодрама"
+        },
+        {
+          "genre": "комедия"
+        },
+        {
+          "genre": "военный"
+        },
+        {
+          "genre": "история"
+        }
+      ],
+      "ratingKinopoisk": 8.9,
+      "ratingImdb": 8.8,
+      "year": 1994,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/448.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/448.jpg"
+    },
+    {
+      "kinopoiskId": 1101316,
+      "imdbId": "tt016399111",
+      "nameRu": "Энчантималс. Дом, милый дом",
+      "nameEn": null,
+      "nameOriginal": "Enchantimals Finding Home",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "приключения"
+        },
+        {
+          "genre": "фэнтези"
+        },
+        {
+          "genre": "мультфильм"
+        },
+        {
+          "genre": "детский"
+        }
+      ],
+      "ratingKinopoisk": 8.9,
+      "ratingImdb": 7,
+      "year": 2017,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1101316.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/1101316.jpg"
+    },
+    {
+      "kinopoiskId": 4534959,
+      "imdbId": "tt032544489",
+      "nameRu": "Братцы кролики",
+      "nameEn": null,
+      "nameOriginal": null,
+      "countries": [
+        {
+          "country": "Россия"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "мультфильм"
+        },
+        {
+          "genre": "детский"
+        }
+      ],
+      "ratingKinopoisk": 8.9,
+      "ratingImdb": null,
+      "year": 2021,
+      "type": "TV_SERIES",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/4534959.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/4534959.jpg"
+    },
+    {
+      "kinopoiskId": 1105410,
+      "imdbId": "tt5732482",
+      "nameRu": "Ханс Циммер: Live on Tour",
+      "nameEn": null,
+      "nameOriginal": "Hans Zimmer: Live in Prague",
+      "countries": [
+        {
+          "country": "Великобритания"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "музыка"
+        },
+        {
+          "genre": "документальный"
+        },
+        {
+          "genre": "концерт"
+        }
+      ],
+      "ratingKinopoisk": 8.9,
+      "ratingImdb": 9.1,
+      "year": 2017,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1105410.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/1105410.jpg"
+    },
+    {
+      "kinopoiskId": 1285303,
+      "imdbId": "tt033335311",
+      "nameRu": "Гормити",
+      "nameEn": null,
+      "nameOriginal": "Gormiti",
+      "countries": [
+        {
+          "country": "Испания"
+        },
+        {
+          "country": "Италия"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "мультфильм"
+        },
+        {
+          "genre": "детский"
+        }
+      ],
+      "ratingKinopoisk": 8.9,
+      "ratingImdb": 5.3,
+      "year": 2018,
+      "type": "TV_SERIES",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1285303.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/1285303.jpg"
+    },
+    {
+      "kinopoiskId": 4459937,
+      "imdbId": "tt556325311",
+      "nameRu": "Хочу все знать!",
+      "nameEn": null,
+      "nameOriginal": null,
+      "countries": [
+        {
+          "country": "Россия"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "семейный"
+        },
+        {
+          "genre": "документальный"
+        },
+        {
+          "genre": "реальное ТВ"
+        },
+        {
+          "genre": "детский"
+        }
+      ],
+      "ratingKinopoisk": 8.9,
+      "ratingImdb": null,
+      "year": 2021,
+      "type": "TV_SERIES",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/4459937.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/4459937.jpg"
+    },
+    {
+      "kinopoiskId": 651374,
+      "imdbId": "tt2118686",
+      "nameRu": "Моцарт. Рок-опера",
+      "nameEn": null,
+      "nameOriginal": "Mozart l'opéra Rock 3D",
+      "countries": [
+        {
+          "country": "Франция"
+        },
+        {
+          "country": "Корея Южная"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "мюзикл"
+        }
+      ],
+      "ratingKinopoisk": 8.9,
+      "ratingImdb": 7.9,
+      "year": 2011,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/651374.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/651374.jpg"
+    },
+    {
+      "kinopoiskId": 743975,
+      "imdbId": "tt3560728",
+      "nameRu": "Романовы",
+      "nameEn": null,
+      "nameOriginal": null,
+      "countries": [
+        {
+          "country": "Россия"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "история"
+        },
+        {
+          "genre": "документальный"
+        }
+      ],
+      "ratingKinopoisk": 8.9,
+      "ratingImdb": 8.3,
+      "year": 2013,
+      "type": "TV_SERIES",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/743975.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/743975.jpg"
+    },
+    {
+      "kinopoiskId": 1101316,
+      "imdbId": "tt129845551",
+      "nameRu": "Энчантималс. Дом, милый дом",
+      "nameEn": null,
+      "nameOriginal": "Enchantimals Finding Home",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "приключения"
+        },
+        {
+          "genre": "фэнтези"
+        },
+        {
+          "genre": "мультфильм"
+        },
+        {
+          "genre": "детский"
+        }
+      ],
+      "ratingKinopoisk": 8.9,
+      "ratingImdb": 7,
+      "year": 2017,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1101316.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/1101316.jpg"
+    },
+    {
+      "kinopoiskId": 677613,
+      "imdbId": "tt2343385",
+      "nameRu": null,
+      "nameEn": null,
+      "nameOriginal": "Armin Only: Mirage",
+      "countries": [
+        {
+          "country": "Нидерланды"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "музыка"
+        },
+        {
+          "genre": "концерт"
+        }
+      ],
+      "ratingKinopoisk": 8.9,
+      "ratingImdb": 8.8,
+      "year": 2011,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/677613.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/677613.jpg"
+    },
+    {
+      "kinopoiskId": 734467,
+      "imdbId": "tt129445551",
+      "nameRu": "Оскар и Розовая дама",
+      "nameEn": null,
+      "nameOriginal": null,
+      "countries": [
+        {
+          "country": "Россия"
+        }
+      ],
+      "genres": [],
+      "ratingKinopoisk": 8.9,
+      "ratingImdb": null,
+      "year": 2006,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/734467.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/734467.jpg"
+    },
+    {
+      "kinopoiskId": 818296,
+      "imdbId": "tt0417053",
+      "nameRu": null,
+      "nameEn": null,
+      "nameOriginal": "Placebo: Soulmates Never Die - Live in Paris 2003",
+      "countries": [
+        {
+          "country": "Великобритания"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "музыка"
+        }
+      ],
+      "ratingKinopoisk": 8.9,
+      "ratingImdb": 8.8,
+      "year": 2004,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/818296.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/818296.jpg"
+    },
+    {
+      "kinopoiskId": 724896,
+      "imdbId": "tt2300161",
+      "nameRu": "Как назвать эту любовь?",
+      "nameEn": null,
+      "nameOriginal": "Iss Pyaar Ko Kya Naam Doon",
+      "countries": [
+        {
+          "country": "Индия"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "драма"
+        },
+        {
+          "genre": "мелодрама"
+        }
+      ],
+      "ratingKinopoisk": 8.9,
+      "ratingImdb": 7.5,
+      "year": 2011,
+      "type": "TV_SERIES",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/724896.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/724896.jpg"
+    },
+    {
+      "kinopoiskId": 1372775,
+      "imdbId": "tt16311516",
+      "nameRu": "Том и Джерри",
+      "nameEn": null,
+      "nameOriginal": "Tom and Jerry",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "комедия"
+        },
+        {
+          "genre": "мультфильм"
+        },
+        {
+          "genre": "семейный"
+        },
+        {
+          "genre": "короткометражка"
+        }
+      ],
+      "ratingKinopoisk": 8.9,
+      "ratingImdb": 9.2,
+      "year": 1940,
+      "type": "TV_SERIES",
+      "posterUrl": null,
+      "posterUrlPreview": null
+    },
+    {
+      "kinopoiskId": 448,
+      "imdbId": "tt0339831",
+      "nameRu": "Форрест Гамп",
+      "nameEn": null,
+      "nameOriginal": "Forrest Gump",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "драма"
+        },
+        {
+          "genre": "мелодрама"
+        },
+        {
+          "genre": "комедия"
+        },
+        {
+          "genre": "военный"
+        },
+        {
+          "genre": "история"
+        }
+      ],
+      "ratingKinopoisk": 8.9,
+      "ratingImdb": 8.8,
+      "year": 1994,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/448.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/448.jpg"
+    },
+    {
+      "kinopoiskId": 1054322,
+      "imdbId": "tt129855551",
+      "nameRu": null,
+      "nameEn": null,
+      "nameOriginal": "Sergei Polunin: Take Me to Church",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "музыка"
+        },
+        {
+          "genre": "короткометражка"
+        }
+      ],
+      "ratingKinopoisk": 8.9,
+      "ratingImdb": 9.2,
+      "year": 2015,
+      "type": "FILM",
+      "posterUrl": null,
+      "posterUrlPreview": null
+    },
+    {
+      "kinopoiskId": 1174294,
+      "imdbId": "tt8050980",
+      "nameRu": "Амфибия",
+      "nameEn": null,
+      "nameOriginal": "Amphibia",
+      "countries": [
+        {
+          "country": "США"
+        },
+        {
+          "country": "Испания"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "триллер"
+        },
+        {
+          "genre": "драма"
+        },
+        {
+          "genre": "детектив"
+        },
+        {
+          "genre": "фантастика"
+        },
+        {
+          "genre": "приключения"
+        },
+        {
+          "genre": "боевик"
+        },
+        {
+          "genre": "фэнтези"
+        },
+        {
+          "genre": "комедия"
+        },
+        {
+          "genre": "мультфильм"
+        },
+        {
+          "genre": "семейный"
+        }
+      ],
+      "ratingKinopoisk": 8.9,
+      "ratingImdb": 8.2,
+      "year": 2019,
+      "type": "TV_SERIES",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1174294.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/1174294.jpg"
+    },
+    {
+      "kinopoiskId": 1390674,
+      "imdbId": "tt13812966",
+      "nameRu": "Инфинити Надо",
+      "nameEn": null,
+      "nameOriginal": "Infinity Nado",
+      "countries": [
+        {
+          "country": "Китай"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "мультфильм"
+        },
+        {
+          "genre": "детский"
+        }
+      ],
+      "ratingKinopoisk": 8.9,
+      "ratingImdb": null,
+      "year": 2012,
+      "type": "TV_SERIES",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1390674.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/1390674.jpg"
+    },
+    {
+      "kinopoiskId": 743965,
+      "imdbId": "tt129899151",
+      "nameRu": "Африка",
+      "nameEn": null,
+      "nameOriginal": "Africa",
+      "countries": [
+        {
+          "country": "Великобритания"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "документальный"
+        }
+      ],
+      "ratingKinopoisk": 8.9,
+      "ratingImdb": 9,
+      "year": 2013,
+      "type": "MINI_SERIES",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/743965.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/743965.jpg"
+    },
+    {
+      "kinopoiskId": 383870,
+      "imdbId": "tt152845545",
+      "nameRu": "Антология Beatles",
+      "nameEn": null,
+      "nameOriginal": "The Beatles Anthology",
+      "countries": [
+        {
+          "country": "Великобритания"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "музыка"
+        },
+        {
+          "genre": "документальный"
+        }
+      ],
+      "ratingKinopoisk": 8.9,
+      "ratingImdb": 9.1,
+      "year": 1995,
+      "type": "MINI_SERIES",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/383870.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/383870.jpg"
+    },
+    {
+      "kinopoiskId": 4459937,
+      "imdbId": "tt452984551",
+      "nameRu": "Хочу все знать!",
+      "nameEn": null,
+      "nameOriginal": null,
+      "countries": [
+        {
+          "country": "Россия"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "семейный"
+        },
+        {
+          "genre": "документальный"
+        },
+        {
+          "genre": "реальное ТВ"
+        },
+        {
+          "genre": "детский"
+        }
+      ],
+      "ratingKinopoisk": 8.9,
+      "ratingImdb": null,
+      "year": 2021,
+      "type": "TV_SERIES",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/4459937.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/4459937.jpg"
+    },
+    {
+      "kinopoiskId": 1040913,
+      "imdbId": "tt129840051",
+      "nameRu": null,
+      "nameEn": null,
+      "nameOriginal": "The Prodigy: Smack My Bitch Up",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "музыка"
+        },
+        {
+          "genre": "короткометражка"
+        }
+      ],
+      "ratingKinopoisk": 8.9,
+      "ratingImdb": 8,
+      "year": 1997,
+      "type": "FILM",
+      "posterUrl": null,
+      "posterUrlPreview": null
+    },
+    {
+      "kinopoiskId": 1048721,
+      "imdbId": "tt5608708",
+      "nameRu": "МегаМен: Полный заряд",
+      "nameEn": null,
+      "nameOriginal": "Mega Man: Fully Charged",
+      "countries": [
+        {
+          "country": "США"
+        },
+        {
+          "country": "Канада"
+        },
+        {
+          "country": "Япония"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "фантастика"
+        },
+        {
+          "genre": "мультфильм"
+        },
+        {
+          "genre": "детский"
+        }
+      ],
+      "ratingKinopoisk": 8.9,
+      "ratingImdb": 4.2,
+      "year": 2018,
+      "type": "TV_SERIES",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1048721.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/1048721.jpg"
+    },
+    {
+      "kinopoiskId": 4316311,
+      "imdbId": "tt111494301",
+      "nameRu": "Headspace: Руководство по медитации",
+      "nameEn": null,
+      "nameOriginal": "Headspace: Guide to Meditation",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "мультфильм"
+        },
+        {
+          "genre": "документальный"
+        }
+      ],
+      "ratingKinopoisk": 8.9,
+      "ratingImdb": 8.4,
+      "year": 2021,
+      "type": "MINI_SERIES",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/4316311.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/4316311.jpg"
+    },
+    {
+      "kinopoiskId": 1288698,
+      "imdbId": "tt121494301",
+      "nameRu": "Семь миров, одна планета",
+      "nameEn": null,
+      "nameOriginal": "Seven Worlds One Planet",
+      "countries": [
+        {
+          "country": "США"
+        },
+        {
+          "country": "Франция"
+        },
+        {
+          "country": "Великобритания"
+        },
+        {
+          "country": "Германия"
+        },
+        {
+          "country": "Китай"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "документальный"
+        }
+      ],
+      "ratingKinopoisk": 8.9,
+      "ratingImdb": 9.3,
+      "year": 2019,
+      "type": "MINI_SERIES",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1288698.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/1288698.jpg"
+    },
+    {
+      "kinopoiskId": 493902,
+      "imdbId": "tt0380136",
+      "nameRu": "КьюАй. Весьма интересно",
+      "nameEn": null,
+      "nameOriginal": "QI",
+      "countries": [
+        {
+          "country": "Великобритания"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "комедия"
+        },
+        {
+          "genre": "игра"
+        }
+      ],
+      "ratingKinopoisk": 8.9,
+      "ratingImdb": 8.6,
+      "year": 2003,
+      "type": "TV_SERIES",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/493902.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/493902.jpg"
+    },
+    {
+      "kinopoiskId": 982493,
+      "imdbId": "tt0500508",
+      "nameRu": "Друзья: Ещё один эпизод перед последним — Десять лет Друзей",
+      "nameEn": null,
+      "nameOriginal": "Friends: The One Before the Last One - Ten Years of Friends",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "комедия"
+        }
+      ],
+      "ratingKinopoisk": 8.9,
+      "ratingImdb": 8.7,
+      "year": 2004,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/982493.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/982493.jpg"
+    }
+  ]
+}

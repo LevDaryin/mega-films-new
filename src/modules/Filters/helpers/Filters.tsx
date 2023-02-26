@@ -1,6 +1,6 @@
-import { useItems } from '@/UI/helpers/useItems';
+import { useItems } from '@/modules/Filters/useItems';
 
-import { Title } from '../../UI/Title';
+import { Title } from '../../../UI/Title';
 import { NameFilter } from '@/components/NameFilter';
 import { ChoiceFilter } from '@/components/ChoiceFilter';
 import { YearFilter } from '@/components/YearFilter';

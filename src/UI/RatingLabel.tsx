@@ -21,7 +21,7 @@ const RatingLabel = ({ rating }: Props) => {
       className="absolute top-[-2px] left-[-2px] rounded-br-[20px] rounded-tl-[20px] border-[2px] border-[#364C84] px-[16px] py-[1px] text-[10px] text-white"
       style={{ backgroundColor: ratingColor }}
     >
-      {rating}
+      {rating ? rating : '-'}
     </div>
   );
 };

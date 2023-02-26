@@ -8,8 +8,8 @@ Website for viewing information about films.
 
 ## ToDo
 
-- [ ] adding primary structure and styles
-- [ ] requesting content from the server(films)
+- [x] adding primary structure and styles
+- [x] requesting content from the server(films)
 - [ ] content pagination
 - [ ] routing
 - [ ] films filtering

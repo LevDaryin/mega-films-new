@@ -6,26 +6,29 @@ interface Props {
   smallPosterURL: string;
   filmName: string;
   year: number | string;
-  genre: string;
+  genres: { genre: string }[] | [];
+  rating: number | string;
 }
 
-const Card = ({ smallPosterURL, filmName, year, genre }: Props) => {
+const Card = ({ smallPosterURL, filmName, year, genres, rating }: Props) => {
   const smallPoster = smallPosterURL ? smallPosterURL : posterNotFound;
+  const name = filmName ? filmName : 'Без названия';
+  const genre = genres[0] ? genres[0].genre : '-';
 
   return (
-    <div className="relative h-[257px] w-[150px] rounded-[20px] border-[3px] border-[#364C84] bg-[#CACACA] p-[18px] transition-transform hover:translate-y-[-3px]">
-      <RatingLabel rating={10} />
+    <div className="relative mr-[30px] mb-[30px] h-[257px] w-[150px] rounded-[20px] border-[3px] border-[#364C84] bg-[#CACACA] p-[18px] transition-transform hover:translate-y-[-3px]">
+      <RatingLabel rating={rating} />
       <img
         src={smallPoster}
         alt="small film poster"
         height={170}
         width={115}
-        className="mx-auto mb-[10px]"
+        className="mx-auto mb-[10px] h-[170px] w-[115px] object-contain"
       />
-      <h3 className="text-center mb-[5px] align-middle text-[12px] font-normal leading-[15px]">
-        {filmName}
+      <h3 className="mb-[5px] truncate text-center align-middle text-[12px] font-normal leading-[15px]">
+        {name}
       </h3>
-      <p className="text-center relative bottom-0 text-[10px] text-[#6B6A6A]">{`${year}, ${genre}`}</p>
+      <p className="text-center text-[10px] text-[#6B6A6A]">{`${year}, ${genre}`}</p>
     </div>
   );
 };
