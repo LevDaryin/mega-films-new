@@ -8,7 +8,7 @@ module.exports = {
     },
     gridTemplateRows: {
       cards: 'repeat(3, 257px)',
-      content: '894px',
+      content: '894px 45px',
       header: '86px 4px',
     },
     boxShadow: {

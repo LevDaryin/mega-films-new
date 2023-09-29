@@ -1,7 +1,7 @@
 import { createAsyncThunk, createSlice } from '@reduxjs/toolkit';
 import ky from 'ky';
 
-import { FilmsState } from '@/modules/CardsField/store/types';
+import { FilmsState } from '@/store/types';
 
 const loadFilms = createAsyncThunk('@@films/load-films', async () => {
   const data = await ky.get('http://localhost:3000/films').json();
@@ -28,7 +28,7 @@ const filmsSlice = createSlice({
       })
       .addCase(loadFilms.rejected, (state) => {
         state.status = 'rejected';
-        state.error = 'Упс... Что-то пошло не так'; // error
+        state.error = 'Упс... Что-то пошло не так';
       })
       .addCase(loadFilms.fulfilled, (state, action) => {
         state.status = 'received';
@@ -39,4 +39,10 @@ const filmsSlice = createSlice({
 
 const filmsReducer = filmsSlice.reducer;
 
-export { loadFilms, filmsReducer };
+const selectCountInfo = (state: FilmsState) => ({
+  status: state.status,
+  error: state.error,
+  count: state.list instanceof Array ? state.list.length : 0,
+});
+
+export { loadFilms, filmsReducer, selectCountInfo };

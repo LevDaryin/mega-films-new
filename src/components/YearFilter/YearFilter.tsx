@@ -1,4 +1,4 @@
-import { useItems } from '@/modules/Filters/useItems';
+import { useItems } from '@/modules/Filters/helpers/useItems';
 
 import { SmTitle } from '@/UI/SmTitle';
 import ReactSlider from 'react-slider';

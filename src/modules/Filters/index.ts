@@ -1,1 +1,1 @@
-export * from './helpers/Filters';
+export * from './Filters';
